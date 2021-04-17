@@ -23,7 +23,6 @@ import javafx.scene.control.Slider;
 import javafx.scene.control.Tooltip;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-
 import java.util.ArrayList;
 
 public class OthelloApplication extends Application {
